@@ -72,4 +72,4 @@ Os desafios [`003-rle`](https://github.com/oxide-club/challenges/tree/main/003-r
 
 ## Conexões com outras trilhas
 
-Os desafios de formatos e engenharia reversa da trilha 6 reutilizam os mesmos conhecimentos de offsets, limites e endianness.
+Os desafios de formatos e engenharia reversa da trilha [Formatos Executáveis e Engenharia Reversa](/roadmaps/formatos-executaveis-e-engenharia-reversa/) reutilizam os mesmos conhecimentos de offsets, limites e endianness.

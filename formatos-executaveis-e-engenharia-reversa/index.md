@@ -79,8 +79,8 @@ A distinção entre inferência de um formato de arquivo e inferência de execu�
 
 ## Escolhas e aprofundamentos
 
-`027-pe-inspector` requer leitura segura de bytes, incluindo validação de limites e offsets; não envolve executar PE. `029-minimal-debugger` exige preparação em processos, sinais, ABI e syscalls, obtida nas trilhas 7 e 8.
+`027-pe-inspector` requer leitura segura de bytes, incluindo validação de limites e offsets; não envolve executar PE. `029-minimal-debugger` exige preparação em processos, sinais, ABI e syscalls, obtida nas trilhas [Compilação, ABI e Linking](/roadmaps/compilacao-abi-e-linking/) e [Sistemas Operacionais, Processos e Isolamento](/roadmaps/sistemas-operacionais-processos-e-isolamento/).
 
 ## Conexões com outras trilhas
 
-A trilha 1 prepara a leitura de formatos; as trilhas 7 e 8 preparam debugging.
+A trilha [Representação de Dados e Protocolos](/roadmaps/representacao-de-dados-e-protocolos/) prepara a leitura de formatos; as trilhas [Compilação, ABI e Linking](/roadmaps/compilacao-abi-e-linking/) e [Sistemas Operacionais, Processos e Isolamento](/roadmaps/sistemas-operacionais-processos-e-isolamento/) preparam debugging.

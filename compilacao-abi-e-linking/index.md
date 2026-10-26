@@ -76,4 +76,4 @@ O laboratório [`022-page-protection-lab`](https://github.com/oxide-club/labs/tr
 
 ## Conexões com outras trilhas
 
-As trilhas 3, 6 e 8 aproveitam diretamente essa base.
+As trilhas [Rust Internals e Segurança de Abstrações](/roadmaps/rust-internals-e-seguranca-de-abstracoes/), [Formatos Executáveis e Engenharia Reversa](/roadmaps/formatos-executaveis-e-engenharia-reversa/) e [Sistemas Operacionais, Processos e Isolamento](/roadmaps/sistemas-operacionais-processos-e-isolamento/) aproveitam diretamente essa base.

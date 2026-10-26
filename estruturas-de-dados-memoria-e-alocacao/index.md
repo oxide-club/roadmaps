@@ -70,4 +70,4 @@ Os dois caminhos podem ser cursados em paralelo. O estudo de buffers ajuda a ent
 
 ## Conexões com outras trilhas
 
-Prepara especialmente `023-mini-vec` e `024-mini-refcell` na trilha 3.
+Prepara especialmente `023-mini-vec` e `024-mini-refcell` na trilha [Rust Internals e Segurança de Abstrações](/roadmaps/rust-internals-e-seguranca-de-abstracoes/).

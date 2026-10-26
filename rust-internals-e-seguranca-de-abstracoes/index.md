@@ -54,8 +54,8 @@ O percurso distingue invariantes estáticos (typestate), invariantes internos de
 
 ## Escolhas e aprofundamentos
 
-O laboratório [`020-dispatch-lab`](https://github.com/oxide-club/labs/tree/main/020-dispatch-lab) investiga como diferentes abstrações se refletem no código compilado. O desafio [`025-rust-c-ffi`](https://github.com/oxide-club/challenges/tree/main/025-rust-c-ffi) segue uma ramificação de interoperabilidade, recomendada após a base de ABI e linking da trilha 7. São aprofundamentos distintos; nenhum precisa bloquear o outro.
+O laboratório [`020-dispatch-lab`](https://github.com/oxide-club/labs/tree/main/020-dispatch-lab) investiga como diferentes abstrações se refletem no código compilado. O desafio [`025-rust-c-ffi`](https://github.com/oxide-club/challenges/tree/main/025-rust-c-ffi) segue uma ramificação de interoperabilidade, recomendada após a base de ABI e linking da trilha [Compilação, ABI e Linking](/roadmaps/compilacao-abi-e-linking/). São aprofundamentos distintos; nenhum precisa bloquear o outro.
 
 ## Conexões com outras trilhas
 
-Conexões fortes com memória (trilha 2) e compilação/ABI (trilha 7).
+Conexões fortes com memória (trilha [Estruturas de Dados, Memória e Alocação](/roadmaps/estruturas-de-dados-memoria-e-alocacao/)) e compilação/ABI (trilha [Compilação, ABI e Linking](/roadmaps/compilacao-abi-e-linking/)).

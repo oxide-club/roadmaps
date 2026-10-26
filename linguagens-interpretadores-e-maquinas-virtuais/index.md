@@ -52,4 +52,4 @@ O laboratório [`007-compilation-lab`](https://github.com/oxide-club/labs/tree/m
 
 ## Conexões com outras trilhas
 
-A trilha 7 explica execução nativa e linking; a trilha 3 explica dispatch no contexto de Rust.
+A trilha [Compilação, ABI e Linking](/roadmaps/compilacao-abi-e-linking/) explica execução nativa e linking; a trilha [Rust Internals e Segurança de Abstrações](/roadmaps/rust-internals-e-seguranca-de-abstracoes/) explica dispatch no contexto de Rust.

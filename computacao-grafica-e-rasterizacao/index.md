@@ -24,13 +24,13 @@ nodes:
 edges:
   - from: challenges:002-ppm
     to: challenges:007-image-bug
-    type: branch
+    type: recommended_next
   - from: challenges:007-image-bug
     to: challenges:008-image-transform
-    type: branch
+    type: recommended_next
   - from: challenges:008-image-transform
     to: challenges:009-triangle
-    type: branch
+    type: recommended_next
   - from: challenges:002-ppm
     to: challenges:014-mystery-image
     type: branch
@@ -51,8 +51,8 @@ A progressão vai dos bytes RGB às relações entre índices, coordenadas e geo
 
 ## Escolhas e aprofundamentos
 
-O desafio [`014-mystery-image`](https://github.com/oxide-club/challenges/tree/main/014-mystery-image) acrescenta uma investigação aplicada de engenharia reversa de formato e também aparece na trilha 6.
+O desafio [`014-mystery-image`](https://github.com/oxide-club/challenges/tree/main/014-mystery-image) acrescenta uma investigação aplicada de engenharia reversa de formato e também aparece na trilha [Formatos Executáveis e Engenharia Reversa](/roadmaps/formatos-executaveis-e-engenharia-reversa/).
 
 ## Conexões com outras trilhas
 
-Os conceitos de layout e memória aproximam esta trilha das trilhas 1 e 10.
+Os conceitos de layout e memória aproximam esta trilha das trilhas [Representação de Dados e Protocolos](/roadmaps/representacao-de-dados-e-protocolos/) e [Arquitetura, Desempenho e Computação Paralela](/roadmaps/arquitetura-desempenho-e-computacao-paralela/).

@@ -56,4 +56,4 @@ O GPU lab não é pré-requisito obrigatório do attention lab; este último pod
 
 ## Conexões com outras trilhas
 
-A representação numérica da trilha 1 pode servir como apoio, mas não se inclui atividade não publicada como pré-requisito.
+A representação numérica da trilha [Representação de Dados e Protocolos](/roadmaps/representacao-de-dados-e-protocolos/) pode servir como apoio, mas não se inclui atividade não publicada como pré-requisito.

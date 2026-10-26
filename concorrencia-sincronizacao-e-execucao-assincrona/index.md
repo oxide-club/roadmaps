@@ -51,8 +51,8 @@ Após a base, há dois aprofundamentos independentes:
 - [`019-atomics-lab`](https://github.com/oxide-club/labs/tree/main/019-atomics-lab): visibilidade, memory ordering e relações de sincronização.
 - [`015-async-lab`](https://github.com/oxide-club/labs/tree/main/015-async-lab): executor cooperativo com `Future`, `Poll` e `Waker`.
 
-O desafio [`031-ipc-snapshots`](https://github.com/oxide-club/challenges/tree/main/031-ipc-snapshots) é uma convergência com [`006-processes-lab`](https://github.com/oxide-club/labs/tree/main/006-processes-lab) da trilha 8; aplica coordenação e consistência entre processos.
+O desafio [`031-ipc-snapshots`](https://github.com/oxide-club/challenges/tree/main/031-ipc-snapshots) é uma convergência com [`006-processes-lab`](https://github.com/oxide-club/labs/tree/main/006-processes-lab) da trilha [Sistemas Operacionais, Processos e Isolamento](/roadmaps/sistemas-operacionais-processos-e-isolamento/); aplica coordenação e consistência entre processos.
 
 ## Conexões com outras trilhas
 
-A trilha 8 fornece os mecanismos de processos e IPC usados na convergência.
+A trilha [Sistemas Operacionais, Processos e Isolamento](/roadmaps/sistemas-operacionais-processos-e-isolamento/) fornece os mecanismos de processos e IPC usados na convergência.

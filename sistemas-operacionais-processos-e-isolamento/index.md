@@ -59,8 +59,8 @@ A trilha distingue observação de syscalls, mecanismos de processos, permissõe
 
 ## Escolhas e aprofundamentos
 
-O desafio [`029-minimal-debugger`](https://github.com/oxide-club/challenges/tree/main/029-minimal-debugger) é um caminho de instrumentação após processos e syscalls, apoiado também por assembly e ABI. O desafio `031-ipc-snapshots` pode ser cursado após processos e fundamentos de sincronização da trilha 9: isolamento não deve ser tratado como pré-requisito rígido para IPC cooperativo.
+O desafio [`029-minimal-debugger`](https://github.com/oxide-club/challenges/tree/main/029-minimal-debugger) é um caminho de instrumentação após processos e syscalls, apoiado também por assembly e ABI. O desafio `031-ipc-snapshots` pode ser cursado após processos e fundamentos de sincronização da trilha [Concorrência, Sincronização e Execução Assíncrona](/roadmaps/concorrencia-sincronizacao-e-execucao-assincrona/): isolamento não deve ser tratado como pré-requisito rígido para IPC cooperativo.
 
 ## Conexões com outras trilhas
 
-Debugging conecta-se à trilha 6; IPC conecta-se à trilha 9; page protection conecta-se à trilha 7.
+Debugging conecta-se à trilha [Formatos Executáveis e Engenharia Reversa](/roadmaps/formatos-executaveis-e-engenharia-reversa/); IPC conecta-se à trilha [Concorrência, Sincronização e Execução Assíncrona](/roadmaps/concorrencia-sincronizacao-e-execucao-assincrona/); page protection conecta-se à trilha [Compilação, ABI e Linking](/roadmaps/compilacao-abi-e-linking/).
