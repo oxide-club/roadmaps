@@ -1,6 +1,6 @@
 import { readFile, readdir, lstat } from 'node:fs/promises';
 import { resolve, join } from 'node:path';
-import { pathToFileURL } from 'node:url';
+import { pathToFileURL, fileURLToPath } from 'node:url';
 import Ajv from 'ajv';
 import { parse } from 'yaml';
 
@@ -43,6 +43,7 @@ export function validateRoadmap(data, { id }) {
 }
 
 export async function loadRoadmaps(directory) {
+  if (directory instanceof URL) directory = fileURLToPath(directory);
   const source = await lstat(directory);
   if (!source.isDirectory() || source.isSymbolicLink()) throw new Error('A fonte deve ser um diretório regular');
   const entries = [];
