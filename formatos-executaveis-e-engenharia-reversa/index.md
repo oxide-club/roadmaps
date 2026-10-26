@@ -2,7 +2,8 @@
 version: 1
 title: Formatos Executáveis e Engenharia Reversa
 summary: Investigue formatos e comportamentos a partir de bytes e código de máquina.
-question: Como inferir formatos e comportamentos a partir de artefatos que não expõem diretamente
+question:
+  Como inferir formatos e comportamentos a partir de artefatos que não expõem diretamente
   suas estruturas ou seu código-fonte?
 audience: Pessoas que já possuem os conhecimentos de entrada indicados nesta trilha.
 prerequisites:

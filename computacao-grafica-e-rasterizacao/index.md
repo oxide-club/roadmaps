@@ -2,7 +2,8 @@
 version: 1
 title: Computação Gráfica e Rasterização
 summary: Investigue representação de imagens, transformações e rasterização em software.
-question: Como imagens são representadas e produzidas por transformações geométricas e algoritmos de
+question:
+  Como imagens são representadas e produzidas por transformações geométricas e algoritmos de
   rasterização?
 audience: Pessoas que já possuem os conhecimentos de entrada indicados nesta trilha.
 prerequisites:

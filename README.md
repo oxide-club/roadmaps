@@ -10,11 +10,11 @@ Use Node.js 24 ou posterior. Instale as dependências com `npm ci`. Execute `npm
 
 ## Referências canônicas
 
-| Referência | Fonte | Página no site |
-| --- | --- | --- |
-| `challenges:001-wc` | `challenges/001-wc/index.md` | `/desafios/001-wc` |
+| Referência            | Fonte                          | Página no site          |
+| --------------------- | ------------------------------ | ----------------------- |
+| `challenges:001-wc`   | `challenges/001-wc/index.md`   | `/desafios/001-wc`      |
 | `labs:001-binary-lab` | `labs/001-binary-lab/index.md` | `/labs/001-binary-lab/` |
-| `notes:<slug>` | `notes/<slug>/index.md` | `/notas/<slug>/` |
+| `notes:<slug>`        | `notes/<slug>/index.md`        | `/notas/<slug>/`        |
 
 Títulos, resumos, dificuldade e destinos pertencem às fontes canônicas. Não copie esses metadados para os nós. Notas não exigem prefixo numérico ou dificuldade e podem participar de qualquer parte da trilha.
 
